@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 <p align="center"> 
 <b>
-Hello Aliens, Laziest Person On This Earth
+Hello Aliens, Me Laziest Person On This Earth
 </b>
 
 </p>
