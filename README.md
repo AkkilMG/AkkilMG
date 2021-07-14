@@ -36,3 +36,5 @@
         src="https://github-readme-streak-stats.herokuapp.com?user=HeimanPictures&theme=tokyonight"
     />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeimanPictures&layout=compact&theme=tokyonight)](https://github.com/HeimanPictures/)
