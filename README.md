@@ -95,8 +95,10 @@ Hello Aliens, Laziest Person On This Earth
 </p>
 
 <p align="center">
-    <a href="https://www.paypal.me/HeimanPictures/"><img width="256" src="paypal.svg" /></a>
+    <a href="https://www.paypal.me/HeimanPictures/" target="_blank"><img src="paypal.svg" at="PayPal" stype="height: 60px !important;width: 217px !important;" ></a>
 </p>
+
+-------------------
 
 <p align="center">
     <b>Copyright © 2021 HeimanPictures.
