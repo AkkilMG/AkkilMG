@@ -94,6 +94,9 @@ Hello Aliens, Laziest Person On This Earth
     <a href="https://" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
 
+<p align="center">
+    <a href="https://www.paypal.me/HeimanPictures/"><img width="256" src="paypal.svg" /></a>
+</p>
 
 <p align="center">
     <b>Copyright © 2021 HeimanPictures.
