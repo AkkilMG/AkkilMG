@@ -2,7 +2,7 @@
 
 
 
-<details><summary>Tools I ♥️ In Coding</summary>
+<details><summary><b>Tools I ♥️ In Coding</b></summary>
 <br/>
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -39,7 +39,7 @@
 </details>
 
 
-<details><summary>Contribution Graph</summary>
+<details><summary><b>Contribution Graph</b></summary>
 <br/>
 <p align="center">
     <img
@@ -50,7 +50,7 @@
 </details>
 
 
-<details><summary>Trophies</summary>
+<details><summary><b>Trophies</b></summary>
 <br/>
 <p align="center">
     <img
@@ -74,4 +74,19 @@
     />
 </p>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeimanPictures&layout=compact&theme=tokyonight)](https://github.com/HeimanPictures/)
+
+
+<p align="center">
+    <a href="https://" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
+
+
+<p align="center">
+    <b>Copyright © 2021 HeimanPictures.
+</p>
+
+<p align="center">
+All Rights Reserved 🙃</b>
+</p>
