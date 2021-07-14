@@ -32,6 +32,9 @@
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
     <a href="https://docs.pyrogram.org/" target="_blank"> <img src="https://i.imgur.com/BOgY9ai.png" alt="Pyrogram" width="78px" height="40" /></a>
+    <a href="" target="_blank"> <img src="" alt="" width="40px" height="40" /></a>
+    <a href="" target="_blank"> <img src="" alt="" width="40px" height="40" /></a>
+    <a href="" target="_blank"> <img src="" alt="" width="40px" height="40" /></a>
  </p>
 </details>
 
