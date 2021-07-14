@@ -1,5 +1,12 @@
-# _Heimanpictures_
+<h1> _Heimanpictures_ </h1>
 
+<h2>About Me</h2>
+<p align="center"> 
+Hello Aliens, Laziest Person On This Earth
+
+</p>
+
+-----------------------
 
 
 <details><summary><b>Tools I ♥️ In Coding</b></summary>
@@ -38,6 +45,7 @@
  </p>
 </details>
 
+#
 
 <details><summary><b>Contribution Graph</b></summary>
 <br/>
@@ -49,6 +57,7 @@
 </p>
 </details>
 
+#
 
 <details><summary><b>Trophies</b></summary>
 <br/>
@@ -59,8 +68,7 @@
     />
 </details>
 
-
-#
+-----------------------
 
 
 <p align="center">
@@ -76,6 +84,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeimanPictures&layout=compact&theme=tokyonight)](https://github.com/HeimanPictures/)
+
+-----------------------
 
 
 <p align="center">
