@@ -1,8 +1,10 @@
-<h1> _Heimanpictures_ </h1>
+<h1> HeimanPictures </h1>
 
 <h2>About Me</h2>
 <p align="center"> 
+<b>
 Hello Aliens, Laziest Person On This Earth
+</b>
 
 </p>
 
