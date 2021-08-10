@@ -1,7 +1,7 @@
 <h1 align='center'> HeimanPictures </h1>
 
 <h2 align='center'>About Me</h2>
-<p align="center"> 
+<!-- <p align="center"> 
 <b>
 Hello Aliens, Me Laziest Person On This Earth
 </b>
@@ -21,6 +21,10 @@ Just 18 Years.
 <b>
 I Am Learning Python, Go, Js, HTML, Etc.. & Love To Code New Things
 </b>
+</p> -->
+
+<p align="center">
+<b>Hello Nothing Here</b> 😷
 </p>
 
 -----------------------
