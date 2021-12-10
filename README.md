@@ -24,7 +24,7 @@ I Am Learning Python, Go, Js, HTML, Etc.. & Love To Code New Things
 </p> -->
 
 <p align="center">
-<b>Hello Nothing Here</b> 😷
+<b>Hello, I am Introvert Buddy</b> 😷
 </p>
 
 -----------------------
