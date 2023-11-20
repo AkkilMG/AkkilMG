@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/HeimanPictures/HeimanPictures/main/Akkil%20M%20G.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/AkkilMG/AkkilMG/main/Akkil%20M%20G.png"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,16 +28,16 @@
 
 ------------------------
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HeimanPictures" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AkkilMG" />
 
 <p>
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=HeimanPictures&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=AkkilMG&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats" />
     <br>
-    <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=HeimanPictures&theme=tokyonight" />
+    <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=AkkilMG&theme=tokyonight" />
     <br>
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeimanPictures&layout=compact&theme=tokyonight" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkkilMG&layout=compact&theme=tokyonight" />
     <br>
-    <img align="right" width="45%" src="https://github-profile-trophy.vercel.app/?username=HeimanPictures&theme=darkhub" />
+    <img align="right" width="45%" src="https://github-profile-trophy.vercel.app/?username=AkkilMG&theme=darkhub" />
     <br>
 </p>
 <br>
