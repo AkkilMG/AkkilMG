@@ -77,53 +77,15 @@
   <a href="https://androidstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="42" height="42"/> </a>
   <a href="https://apple.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="42" height="42"/> </a>
   <a href="https://nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42"/> </a>
-  <a href="https://telegram.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgviewer.dev/static-svgs/421523/telegram.svg" alt="telegram" width="42" height="42"/> </a>
 </p>
 
----
+<br />
 
-<h3 align="center">📂 Featured Projects</h3>
-
-<!-- <table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/akkilmg/Picdb-UI">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Picdb-UI&theme=aura&title_color=3178c6&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/akkilmg/Picdb-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Picdb-App&theme=aura&title_color=3178c6&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/akkilmg/AvianDesk">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=AvianDesk&theme=aura&title_color=3178c6&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/akkilmg/Certify">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Certify&theme=aura&title_color=3178c6&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/akkilmg/MoE-Bot">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=MoE-Bot&theme=aura&title_color=3178c6&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/akkilmg/Feedback-Bot">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Feedback-Bot&theme=aura&title_color=3178c6&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table> -->
+<hr style="height: 0px; border: none; border-top: 1px solid black;" />
 
 
+<h2 align="center" style="font-weight: bold;">Featured Projects</h2>
+<br />
 
 <div align="center">
   <a href="https://github.com/akkilmg/Picdb-UI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Picdb-UI&theme=aura&hide_border=true" /></a>
@@ -139,29 +101,19 @@
 
 <br />
 
----
 
-<h3 align="center" style="font-weight: bold; font-size: 32px;">GitHub Statistics</h3>
+<hr style="height: 0px; border: none; border-top: 1px solid black;" />
+
+
+<h2 align="center" style="font-weight: bold;">GitHub Statistics</h2>
+
+<br />
 
 <div align="center">
 
 ![Streak 1](https://github-readme-streak-stats.herokuapp.com/?user=akkilmg&theme=aura&background=0D1117&hide_border=true)
 
 </div>
-
-
-
-<!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="55%">
-      <img src="https://github-readme-stats.vercel.app/api?username=akkilmg&hide-border=true&stroke=3178c6&ring=3178c6&fire=3178c6&currStreakLabel=3178c6&theme=aura" alt="Stats" />
-    </td>
-    <td align="center" width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkilmg&layout=compact&theme=aura&hide_border=true&title_color=3178c6" alt="Top Languages" />
-    </td>
-  </tr>
-</table> -->
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akkilmg&hide-border=true&theme=aura" height="165" />
