@@ -31,7 +31,12 @@
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
 
-  <img src="https://dummyimage.com/1x1/000/000" width="220" height="1"/>
+  <picture>
+    <!-- Desktop only -->
+    <source media="(min-width: 768px)" srcset="https://dummyimage.com/1x1/000/000" width="220" height="1">
+    <!-- Mobile: nothing -->
+    <img src="" alt="">
+  </picture>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
   &nbsp;
