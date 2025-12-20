@@ -8,7 +8,7 @@
 
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: 0;">
   <tr>
     <td align="left" width="50%">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -21,9 +21,26 @@
       <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
     </td>
   </tr>
-</table>
+</table> -->
+
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="42"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="42"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
+
+  <img src="https://dummyimage.com/1x1/000/000" width="350" height="1"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="42"/>
+</p>
+
+<p align="center" style="margin-right: 24px; margin-left: 24px;">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -67,7 +84,7 @@
 
 <h3 align="center">📂 Featured Projects</h3>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<!-- <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%">
       <a href="https://github.com/akkilmg/Picdb-UI">
@@ -104,7 +121,21 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
+
+
+
+<div align="center">
+  <a href="https://github.com/akkilmg/Picdb-UI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Picdb-UI&theme=aura&hide_border=true" /></a>
+  <a href="https://github.com/akkilmg/Picdb-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Picdb-App&theme=aura&hide_border=true" /></a>
+  <br/>
+  <a href="https://github.com/akkilmg/AvianDesk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=AvianDesk&theme=aura&hide_border=true" /></a>
+  <a href="https://github.com/akkilmg/Certify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Certify&theme=aura&hide_border=true" /></a>
+  <br/>
+  <a href="https://github.com/akkilmg/MoE-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=MoE-Bot&theme=aura&hide_border=true" /></a>
+  <a href="https://github.com/akkilmg/Feedback-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Feedback-Bot&theme=aura&hide_border=true" /></a>
+</div>
+
 
 <br />
 
@@ -120,7 +151,7 @@
 
 
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="55%">
       <img src="https://github-readme-stats.vercel.app/api?username=akkilmg&hide-border=true&stroke=3178c6&ring=3178c6&fire=3178c6&currStreakLabel=3178c6&theme=aura" alt="Stats" />
@@ -129,11 +160,13 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkilmg&layout=compact&theme=aura&hide_border=true&title_color=3178c6" alt="Top Languages" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akkilmg&hide-border=true&theme=aura" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkilmg&layout=compact&theme=aura&hide_border=true" height="165" />
+</p>
 
 
 <br/>
