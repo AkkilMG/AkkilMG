@@ -33,7 +33,8 @@
 
   <picture>
     <!-- Desktop only -->
-    <source media="(min-width: 768px)" srcset="https://dummyimage.com/1x1/000/000" width="220" height="1">
+    <source media="(prefers-color-scheme: dark)(min-width: 768px)" srcset="https://dummyimage.com/1x1/000/000" width="220" height="1">
+    <source media="(prefers-color-scheme: light)(min-width: 768px)" srcset="https://dummyimage.com/1x1/fff/fff" width="220" height="1">
     <!-- Mobile: nothing -->
     <img src="" alt="">
   </picture>
