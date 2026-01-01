@@ -94,14 +94,14 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/akkilmg/Picdb-UI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Picdb-UI&theme=aura&hide_border=true" /></a>
-  <a href="https://github.com/akkilmg/Picdb-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Picdb-App&theme=aura&hide_border=true" /></a>
+  <a href="https://github.com/akkilmg/Picdb-UI"><img src="https://github-readme-stats-steel-omega.vercel.app/api/pin/?username=akkilmg&repo=Picdb-UI&theme=aura&hide_border=true" /></a>
+  <a href="https://github.com/akkilmg/Picdb-App"><img src="https://github-readme-stats-steel-omega.vercel.app/api/pin/?username=akkilmg&repo=Picdb-App&theme=aura&hide_border=true" /></a>
   <br/>
-  <a href="https://github.com/akkilmg/AvianDesk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=AvianDesk&theme=aura&hide_border=true" /></a>
-  <a href="https://github.com/akkilmg/Certify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Certify&theme=aura&hide_border=true" /></a>
+  <a href="https://github.com/akkilmg/AvianDesk"><img src="https://github-readme-stats-steel-omega.vercel.app/api/pin/?username=akkilmg&repo=AvianDesk&theme=aura&hide_border=true" /></a>
+  <a href="https://github.com/akkilmg/Certify"><img src="https://github-readme-stats-steel-omega.vercel.app/api/pin/?username=akkilmg&repo=Certify&theme=aura&hide_border=true" /></a>
   <br/>
-  <a href="https://github.com/akkilmg/MoE-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=MoE-Bot&theme=aura&hide_border=true" /></a>
-  <a href="https://github.com/akkilmg/Feedback-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akkilmg&repo=Feedback-Bot&theme=aura&hide_border=true" /></a>
+  <a href="https://github.com/akkilmg/MoE-Bot"><img src="https://github-readme-stats-steel-omega.vercel.app/api/pin/?username=akkilmg&repo=MoE-Bot&theme=aura&hide_border=true" /></a>
+  <a href="https://github.com/akkilmg/Feedback-Bot"><img src="https://github-readme-stats-steel-omega.vercel.app/api/pin/?username=akkilmg&repo=Feedback-Bot&theme=aura&hide_border=true" /></a>
 </div>
 
 
@@ -117,13 +117,14 @@
 
 <div align="center">
 
-![Streak 1](https://github-readme-streak-stats.herokuapp.com/?user=akkilmg&theme=aura&background=0D1117&hide_border=true)
+<!-- ![Streak 1](https://github-readme-streak-stats.herokuapp.com/user=akkilmg&theme=aura&background=0D1117&hide_border=true) -->
+<img src="https://streak-stats.demolab.com/demo/preview.php?user=akkilmg&theme=aura&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akkilmg&hide-border=true&theme=aura" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkilmg&layout=compact&theme=aura&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=akkilmg&hide-border=true&theme=aura" height="165" />
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=akkilmg&layout=compact&theme=aura&hide_border=true" height="165" />
 </p>
 
 
