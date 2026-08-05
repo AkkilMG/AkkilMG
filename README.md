@@ -130,6 +130,6 @@
 
 <br/>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akkilmg&custom_title=GitHub%20Activity&bg_color=0D1117&color=6366f1&line=6366f1&point=FFFFFF&area_color=6366f1&title_color=FFFFFF&area=true" alt="Activity Graph" width="100%">
-</p> -->
+</p>
